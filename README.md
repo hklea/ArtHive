@@ -10,24 +10,24 @@ Art Portal is a web application designed to connect artists and art enthusiasts.
 
 Key functionalities:
 
-Artist profile creation: Artists can create their profiles and showcase their artwork, including images and descriptions of each piece.
+ - Artist profile creation: Artists can create their profiles and showcase their artwork, including images and descriptions of each piece.
 
-Artwork categories: Artworks are categorized into different types, making it easier for art enthusiasts to browse and find the artwork they are interested in.
+ - Artwork categories: Artworks are categorized into different types, making it easier for art enthusiasts to browse and find the artwork they are interested in.
 
-Purchase and payment: Art enthusiasts can browse artwork, select their favorite pieces, and purchase them through the website. Payments can be made either online or in-person.
+ - Purchase and payment: Art enthusiasts can browse artwork, select their favorite pieces, and purchase them through the website. Payments can be made either online or in-person.
 
-User authentication and authorization: Users can create accounts, log in, and log out of the application. Different views and functionalities are available based on the role of the user (e.g. admin vs. regular user).
+ - User authentication and authorization: Users can create accounts, log in, and log out of the application. Different views and functionalities are available based on the role of the user (e.g. admin vs. regular user).
 
-Order tracking: Users can track their orders and view the status of each order.
+ - Order tracking: Users can track their orders and view the status of each order.
 
-Revenue sharing: For every order, a 10% commission goes to the platform, while the remaining amount is paid to the artist.
+ - Revenue sharing: For every order, a 10% commission goes to the platform, while the remaining amount is paid to the artist.
 
-Search functionality: Users can search for specific artworks, artists, or categories.
+ - Search functionality: Users can search for specific artworks, artists, or categories.
 
-Rating and review system: Users can rate and review artworks they have purchased, providing valuable feedback for both artists and future buyers.
+ - Rating and review system: Users can rate and review artworks they have purchased, providing valuable feedback for both artists and future buyers.
 
-Notifications: Users receive notifications when their orders are shipped, when they receive new messages from artists, or when there are new artworks in their favorite categories.
+ - Notifications: Users receive notifications when their orders are shipped, when they receive new messages from artists, or when there are new artworks in their favorite categories.
 
-Admin dashboard: The platform includes a dashboard for admins to manage users, artworks, categories, and orders.
+ - Admin dashboard: The platform includes a dashboard for admins to manage users, artworks, categories, and orders.
 
 Overall, Art Portal is a comprehensive web application designed to promote artists and help art enthusiasts discover and purchase high-quality artwork.
