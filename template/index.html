@@ -20,19 +20,13 @@
     </style>
 
     <!--CSS files here-->
+    <link rel="stylesheet" href="preloader.css">
 </head>
 
-<body style="overflow: visible;">
+<body>
     <!-- ? Preloader Start -->
-    <div id="preloader-active">
-        <div class="preloader d-flex align-items-center justify-content-center">
-            <div class="preloader-inner position-relative">
-                <div class="preloader-circle"></div>
-                <div class="preloader-img pere-text">
-                    <img src="" alt="">
-                </div>
-            </div>
-        </div>
+    <div id="preloader">
+
     </div>
     <!-- Preloader Start -->
 
@@ -75,7 +69,13 @@
     <!--Scroll Up-->
     <div id="back-top"></div>
 
-
+    <!--Preloader script-->
+    <script>
+        var loader = document.getElementById("preloader");
+        window.addEventListener("load", function () {
+            loader.style.display = "none";
+        })
+    </script>
     <!--JS files here-->
 
 </body>
