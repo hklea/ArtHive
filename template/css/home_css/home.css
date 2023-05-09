@@ -113,7 +113,7 @@
   }
   
   .title {
-    margin-top: 130px;
+    margin-top: 109px;
     /* Add margin-top to create space below the fixed navbar */
     display: flex;
     flex-direction: column;
