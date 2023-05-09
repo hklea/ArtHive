@@ -129,3 +129,42 @@
     color: #595958;
   }
   
+  /* img slider */
+  .content {
+    height: 90vh;
+    width: 100%;
+    /* background-image: url(../Home/monet2.png); */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: 6s;
+    animation-name: animate;
+    animation-direction: alternate-reverse;
+    animation-play-state: running;
+    animation-timing-function: ease-in-out;
+    animation-duration: 12s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    position: relative;
+    top: 30px; /* Adjust the value to move it lower */
+  }
+  @keyframes animate {
+    0% {
+      background-image: url(../../images/home_img/monet3.png);
+    }  
+    20% {
+      background-image: url(../../images/home_img/monet2.png);
+    }  
+    40% {
+      background-image: url(../../images/home_img/monet4.png);
+    }  
+    60% {
+      background-image: url(../../images/home_img/monet4.png);
+    }  
+    80% {
+      background-image: url(../../images/home_img/monet3.png);
+    }  
+    100% {
+      background-image: url(../../images/home_img/monet4.png);
+    }  
+  }
